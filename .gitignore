@@ -2,3 +2,6 @@
 first_project/first_project/__pycache__/
 first_project/first_app/__pycache__/
 first_project/first_project/.DS_Store
+first_project/first_app/migrations/__pycache__/
+first_project/first_app/.DS_Store
+first_project/first_app/migrations/.DS_Store
