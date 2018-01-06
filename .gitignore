@@ -1,7 +1,13 @@
 .idea/
 first_project/first_project/__pycache__/
 first_project/first_app/__pycache__/
-first_project/first_project/.DS_Store
 first_project/first_app/migrations/__pycache__/
+first_project/first_project/.DS_Store
 first_project/first_app/.DS_Store
 first_project/first_app/migrations/.DS_Store
+ProTwo/ProTwo/__pycache__/
+ProTwo/AppTwo/__pycache__/
+ProTwo/AppTwo/migrations/__pycache__/
+ProTwo/ProTwo/.DS_Store
+ProTwo/AppTwo/.DS_Store
+ProTwo/AppTwo/migrations/.DS_Store
